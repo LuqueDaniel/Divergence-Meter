@@ -13,7 +13,9 @@ Download packages
 
 Screenshots
 ------------------------------------------------------------------------------
-![screenshot](https://raw.github.com/LuqueDaniel/LoL-Server-Status/master/screenshots/main_window.png)
+![screenshot](https://raw.github.com/LuqueDaniel/Divergence-Meter/master/screenshots/screen_line.png)
+![screenshot](https://raw.github.com/LuqueDaniel/Divergence-Meter/master/screenshots/screen_time.png)
+![screenshot](https://raw.github.com/LuqueDaniel/Divergence-Meter/master/screenshots/screen_date.png)
 
 Dependencies
 ------------------------------------------------------------------------------
