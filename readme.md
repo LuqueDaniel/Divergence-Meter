@@ -13,7 +13,7 @@ Download packages
 
 Use
 ------------------------------------------------------------------------------
-- **Enter**: Generate new random linej.
+- **Enter**: Generate new random worldline.
 - **D**: Display local date.
 - **T**: Display local time.
 - **Double click**: Show Divergence Meter in fullscreen.
