@@ -2,7 +2,7 @@
 #
 # This file is part of Divergence Meter
 #
-# LoL Server Status is free software: you can redistribute it and/or modify
+# Divergence Meter is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
 # any later version.
@@ -15,7 +15,7 @@
 # You should have received a copy of the GNU General Public License
 # along with LoL Server Status. If not, see <http://www.gnu.org/licenses/>.
 #
-# Source: <>
+# Source: <https://github.com/LuqueDaniel/Divergence-Meter.git>
 
 
 #LoL Server status imports
