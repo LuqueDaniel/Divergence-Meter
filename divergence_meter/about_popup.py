@@ -76,7 +76,8 @@ class aboutWidget(QWidget):
         label_name.setObjectName('name')
 
         #label_url
-        label_url = QLabel('Source: %s' % (__source__))
+        label_url = QLabel(
+            'Source: <a style="color:orange" href="%s">Github repository</a>' % (__source__))
 
         #label_license
         label_license = QLabel('License: %s' % (__license__))
