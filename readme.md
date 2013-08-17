@@ -11,6 +11,14 @@ Download packages
 
 **[Download previous versions of packages and executables](https://github.com/LuqueDaniel/Divergence-Meter/tree/master/packages)**
 
+Use
+------------------------------------------------------------------------------
+- **Enter**: Generate new random linej.
+- **D**: Display local date.
+- **T**: Display local time.
+- **Double click**: Show Divergence Meter in fullscreen.
+- **Escape**: Show about Divergence Meter.
+
 Screenshots
 ------------------------------------------------------------------------------
 ![screenshot](https://raw.github.com/LuqueDaniel/Divergence-Meter/master/screenshots/screen_line.png)
