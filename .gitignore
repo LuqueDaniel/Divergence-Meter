@@ -1,0 +1,9 @@
+# Ignore files .pyc
+*.pyc
+
+# Ignore ninja-ide project file
+*.nja
+
+# Ignore build folders
+build/
+dist/

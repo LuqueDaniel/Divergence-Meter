@@ -1,0 +1,19 @@
+QMainWindow {
+    background-color: black;
+}
+
+aboutWidget {
+    background-color: gray;
+}
+
+aboutWidget QLabel{
+    font-size: 16px;
+    font-size: 'Arial'
+}
+
+QLabel#name {
+    font-family: 'Arial';
+    font-size: 34px;
+    font-weight: bold;
+}
+
